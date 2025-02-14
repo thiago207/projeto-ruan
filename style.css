@@ -48,7 +48,7 @@ div{
 div h1{
     font-family: cabeca;
     font-size: 40px;
-    color: rgba(253, 80, 0, 0.842);
+    color: #f1861ae3;
     text-shadow: 2px 1px 1px black;
     margin-top: 5px;
     padding-top: 10px;
@@ -74,8 +74,8 @@ nav img{
     border: 1px solid rgb(0, 0, 0);
     width: 70px;
     height: 75px;
-    border-radius: 15px;
-    background-color:rgb(255, 68, 0);
+    border-radius: 25px;
+    background-color: rgba(223, 131, 12, 0.904);
     display: inline-block;
     margin-right: 40px;
     margin-left: 30px;
@@ -89,8 +89,8 @@ nav img{
     border: 1px solid rgb(0, 0, 0);
     width: 70px;
     height: 75px;
-    border-radius: 15px;
-    background-color:rgb(255, 68, 0);
+    border-radius: 25px;
+    background-color:rgba(223, 131, 12, 0.904);
     display: inline-block;
     margin-right: 40px;
     box-shadow:  3px 2px 1px black;
@@ -103,8 +103,8 @@ nav img{
     border: 1px solid rgb(0, 0, 0);
     width: 70px;
     height: 75px;
-    border-radius: 15px;
-    background-color:rgb(255, 68, 0);
+    border-radius: 25px;
+    background-color: rgba(223, 131, 12, 0.904);
     display: inline-block;
     box-shadow: 3px 2px 1px black ;
 
@@ -122,8 +122,8 @@ aside{
     border: 1px solid rgb(0, 0, 0);
     width: 70px;
     height: 72px;
-    border-radius: 15px;
-    background-color: rgb(255, 68, 0);
+    border-radius: 25px;
+    background-color: rgba(223, 131, 12, 0.904);
     display: inline-block;
     margin-left: 75px;
     margin-right: 60px;
@@ -131,15 +131,15 @@ aside{
     box-shadow:  3px 2px 1px black;
 }
 .ab a img{
-    width: 70px;
+    width: 69px;
     
 }
 .bc{
     border: 1px solid rgb(0, 0, 0);
     width: 70px;
     height: 75px;
-    border-radius: 15px;
-    background-color:rgb(255, 68, 0);
+    border-radius: 25px;
+    background-color:rgba(223, 131, 12, 0.904);
     box-shadow:  3px 2px 1px black;
     display: inline-block
     
@@ -176,7 +176,7 @@ text-shadow: 1px 1px 1px black;
 
 }
 footer{
-    background-color: rgb(117, 75, 19);
+    background-color: rgb(0, 0, 0);
     border: 1.5px solid black;
     width: 350px;
     margin-top: 25px;

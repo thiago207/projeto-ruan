@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: cabeca;
-    src: url(VarsityTeam-Bold.otf);
+    src: url(Bulagria.otf);
 }
 @font-face {
     font-family: lemo;
@@ -49,7 +49,9 @@ div h1{
     font-family: cabeca;
     font-size: 40px;
     color: rgba(253, 80, 0, 0.842);
-    text-shadow: 2px 2px 1px black;
+    text-shadow: 2px 1px 1px black;
+    margin-top: 5px;
+    padding-top: 10px;
     
 }
 div h1 p{
@@ -72,8 +74,8 @@ nav img{
     border: 1px solid rgb(0, 0, 0);
     width: 70px;
     height: 75px;
-    border-radius: 10px;
-    background-color: rgba(255, 68, 0, 0.623);
+    border-radius: 15px;
+    background-color:rgb(255, 68, 0);
     display: inline-block;
     margin-right: 40px;
     margin-left: 30px;
@@ -87,8 +89,8 @@ nav img{
     border: 1px solid rgb(0, 0, 0);
     width: 70px;
     height: 75px;
-    border-radius: 10px;
-    background-color:rgba(255, 68, 0, 0.623);
+    border-radius: 15px;
+    background-color:rgb(255, 68, 0);
     display: inline-block;
     margin-right: 40px;
     box-shadow:  3px 2px 1px black;
@@ -101,8 +103,8 @@ nav img{
     border: 1px solid rgb(0, 0, 0);
     width: 70px;
     height: 75px;
-    border-radius: 10px;
-    background-color: rgba(255, 68, 0, 0.623);
+    border-radius: 15px;
+    background-color:rgb(255, 68, 0);
     display: inline-block;
     box-shadow: 3px 2px 1px black ;
 
@@ -120,8 +122,8 @@ aside{
     border: 1px solid rgb(0, 0, 0);
     width: 70px;
     height: 72px;
-    border-radius: 10px;
-    background-color: rgba(255, 68, 0, 0.623);
+    border-radius: 15px;
+    background-color: rgb(255, 68, 0);
     display: inline-block;
     margin-left: 75px;
     margin-right: 60px;
@@ -136,8 +138,8 @@ aside{
     border: 1px solid rgb(0, 0, 0);
     width: 70px;
     height: 75px;
-    border-radius: 10px;
-    background-color:rgba(255, 68, 0, 0.623);
+    border-radius: 15px;
+    background-color:rgb(255, 68, 0);
     box-shadow:  3px 2px 1px black;
     display: inline-block
     
@@ -159,9 +161,9 @@ article img {
  }
   h2 {
     text-align: center;
-    font-family: lemo;
-    text-shadow: 3px 2px 2px black;
-    color: aliceblue;
+    font-family: cabeca;
+    text-shadow: 2px 2px 2px black;
+    color: rgba(240, 248, 255, 0.829);
     
 }
  article p{
@@ -184,7 +186,7 @@ footer{
     box-shadow: 1px 1px  black;
 }
 footer p{
-    font-family: nova;
+    font-family: cabeca;
     text-align: center;
     padding: 1px;
     color: rgba(255, 255, 255, 0.678);

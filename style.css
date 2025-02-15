@@ -48,7 +48,7 @@ div{
 div h1{
     font-family: cabeca;
     font-size: 40px;
-    color: #f1861ae3;
+    color: #e65423;
     text-shadow: 2px 1px 1px black;
     margin-top: 5px;
     padding-top: 10px;
@@ -137,12 +137,12 @@ aside{
 .bc{
     border: 1px solid rgb(0, 0, 0);
     width: 70px;
+    box-shadow: 3px 2px 1px black;
     height: 75px;
     display: inline-block;
     border-radius: 25px;
     background-color: #e65423;)
-    box-shadow:  3px 2px 1px 
-    black;
+    
     
 }
 
@@ -173,7 +173,7 @@ article img {
     padding-top: 10px;
     text-align: center; margin-bottom: 20px;
 font-family: lemo;
-color: rgba(223, 131, 12, 0.904);
+color: #e65423;
 font-weight: bold;
 text-shadow: 1px 1px 1px black;
 

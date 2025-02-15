@@ -137,15 +137,13 @@ aside{
 .bc{
     border: 1px solid rgb(0, 0, 0);
     width: 70px;
-    box-shadow: 3px 2px 1px black;
     height: 75px;
-    display: inline-block;
     border-radius: 25px;
-    background-color: #e65423;)
-    
-    
-}
+    background-color:#e65423;
+    display: inline-block;
+    box-shadow: 3px 2px 1px black ;
 
+}
 
 .bc a img{
     
